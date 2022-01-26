@@ -12,7 +12,7 @@ Here, we can see a simple block which can be used to display code:
     temp = "Hello World!"
     print(temp)
 
-[My Github Profile](github.com/Alberty124).
+[UPRRP Website](https://www.uprrp.edu/).
 
 ## Plans for the future
 
