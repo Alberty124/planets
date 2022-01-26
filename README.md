@@ -8,10 +8,9 @@ This website is designed for the CCOM 4029 course in the Universidad de Puerto R
 
 Here, we can see a simple block which can be used to display code:
 
-    ```python:
+    python:
     temp = "Hello World!"
     print(temp)
-    ```
 
 [My Github Profile](github.com/Alberty124).
 
