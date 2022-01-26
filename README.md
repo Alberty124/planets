@@ -6,18 +6,11 @@
 
 This website is designed for the CCOM 4029 course in the Universidad de Puerto Rico, Recinto de Río Piedras.
 
-Here, we can see a simple code of python:
+Here, we can see a simple block which can be used to display code:
 
-    ```python
+    ```python:
     temp = "Hello World!"
     print(temp)
-    ```
-
-While here, we can observe a c++ program:
-
-    ```cpp
-    string temp = "Hello World!";
-    cout << temp << endl;
     ```
 
 [My Github Profile](github.com/Alberty124).
